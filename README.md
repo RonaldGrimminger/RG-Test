@@ -1,9 +1,9 @@
 # Your Project's Title...
-Your project's description...
+HLX-SE-RG
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--RG-Test--RonaldGrimminger.hlx.page/
+- Live: https://main--RG-Test--RonaldGrimminger.hlx.live/
 
 ## Installation
 
